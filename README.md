@@ -2,14 +2,14 @@
 A cleaned up version of the course materials for the Human computer interaction unit at Bristol Uni
 
 - Up to date as of 2025
-- Designed for the minor NOT the major 
+- Designed for the minor NOT the major
 
-# Non examinable 
+## Non examinable 
 - External cognition
 - "The hooked model is the exception: this is not on the exam"
 - "specific facts, concept names, definitions included in lectures after the week 4 material"
 
-# Advice from Lecturer 
+## Advice from Lecturer 
 > Slides, lectures and practicals are what you should focus on now. Understanding and being able to apply that material to scenarios and compare with other theories is what's important.
 
 > But asking you to remember e.g. the names of the METUX spheres would be a waste of all of our time. You are not here to learn to memorise vocabulary.
@@ -18,7 +18,7 @@ A cleaned up version of the course materials for the Human computer interaction 
 
 > marks for such basic memorisation only make up a small portion of the marks.
 
-## Is writing about something a tangent
+### Is writing about something a tangent
 
 A heuristic: it is probably not a tangent if it contributes towards answering one of these questions: 
 
@@ -38,7 +38,7 @@ Pay attention to these heuristics and to the mark scheme. 
 
 The only other consideration is proportion: don't go off on a 3 page detailed explanation of some point if it stops you from having space to address other things on the mark scheme.
 
-## AT subjects
+### AT subjects
 Activity Theory: Picking a Subject, etc.
 
 The strength and the difficulty of Activity theory is that you can analyse the same situation in multiple different ways, depending on how you choose the subject, tool, and object. Your job is to choose the frame of analysis that is most interesting and revealing for your case.
@@ -52,3 +52,10 @@ What you need to understand, and make clear to us in the report are:
 2) **Why is it interesting to focus on THAT group (or THAT individual)?**
 
 3) **Once you have chosen a subject and a tool etc., you need to stay consistent with all your other choices.**  E.g. if two people in a group have a different mental model of a how a tool works that will be a primary contradiction if the subject is the group. It will be a secondary contradiction if the subject is just one of the individuals.
+
+## Notes
+- Outdated unit code used in various places
+- week 6 is not missing, it was a reading week
+
+- Credit to Daniel Bennet and assorted postgrads for the materials.
+- This resource is strictly unofficial and provided without any gaurantees of quality. 
